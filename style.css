@@ -120,7 +120,7 @@
     position: relative;
     background-color: red;
     animation-name: baseball;
-    animation-duration: 15s;
+    animation-duration: 25s;
     border-radius: 50%;
     z-index: 2;
     transform: rotate(90deg);
