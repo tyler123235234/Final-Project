@@ -161,6 +161,6 @@ footer {
   25% {
     left: 100vw;
     top: 0px;
-    transform: rotate(36000deg)
+    transform: rotate(360deg)
   }
 }
