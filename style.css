@@ -113,7 +113,7 @@ footer {
   color: navy;
 }
 
-.bb {
+.bb, .me {
   left: -250px;
   width: 200px;
   height: 205px;
