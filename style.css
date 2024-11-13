@@ -5,16 +5,7 @@
 body {
   margin: 0;
 }
-p{
-  color: white;
-  display: block;
-  text-decoration: none;
-  text-transform: uppercase;
-  letter-spacing: 0.1rem;
-  text-align: center;
-  position: absolute;
-  width: 100vw;
-  margin: auto;
+
 .des {
   color: black;
 }
