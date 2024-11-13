@@ -15,6 +15,7 @@ p{
   position: absolute;
   width: 100vw;
   margin: auto;
+  justify-content: center;
 .des {
   color: black;
 }
