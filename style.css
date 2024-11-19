@@ -113,7 +113,9 @@ section {
   font-style: italic;
   font-size: 11px;
 }
-
+body{
+  align-items: center;
+}
 footer {
   color: black;
   display: block;
