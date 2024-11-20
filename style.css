@@ -2,7 +2,9 @@
   background-color: lightblue;
 }
 
-
+html {
+  color-scheme: light dark;
+}
 
 .des {
   color: black;
