@@ -31,7 +31,7 @@
   width: 100vw;
   margin: auto;
   color: black;
-  text-shadow: 0 0px -3px rgb(255, 255, 255);
+  text-shadow: 0 0px 3px rgb(255, 255, 255);
 }
 
 #header {
