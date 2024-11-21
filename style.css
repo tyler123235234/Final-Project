@@ -22,8 +22,6 @@
 }
 
 .navi {
-  color: black;
-  text-shadow: 0 0px -3px blue;
   display: block;
   text-decoration: none;
   text-transform: uppercase;
@@ -32,6 +30,8 @@
   position: absolute;
   width: 100vw;
   margin: auto;
+  color: black;
+  text-shadow: 0 0px -3px rgb(255, 255, 255);
 }
 
 #header {
