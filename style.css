@@ -11,7 +11,7 @@
 .hor {
   border-top: 2px solid blue;
   border-bottom: 2px solid blue;
-  width:100vw;
+  width:90vw;
   z-index: 1;
 }
 
