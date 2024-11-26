@@ -33,7 +33,7 @@
   text-transform: uppercase;
   letter-spacing: 0.1rem;
   text-align: center;
-  position: absolute;
+  position: relative;
   width: 80vw;
   margin: auto;
   margin-left: auto;
