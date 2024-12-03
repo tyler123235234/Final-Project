@@ -108,6 +108,7 @@ section {
 .me{
   align-items: center;
   margin: auto;
+  align-content: center;
 }
 .logo {
   border-radius: 0%;
