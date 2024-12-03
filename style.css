@@ -72,7 +72,11 @@ header {
 .nav-link {
   align-items: center;
 }
-
+.quote{
+  height: 200px;
+  width: 200px;
+  align-items: center;
+}
 li,
 section {
   text-align: center;
