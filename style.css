@@ -105,7 +105,10 @@ section {
 .pic2 {
   justify-content: center;
 }
-
+.me{
+  align-items: center;
+  margin: auto;
+}
 .logo {
   border-radius: 0%;
   height: 111px;
