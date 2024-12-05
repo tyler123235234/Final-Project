@@ -12,7 +12,11 @@
   width:99.9vw;
   z-index: 1;
 }
-
+.fall{
+  left: 0;
+  top: 50%;
+  
+}
 
 
 .des {
