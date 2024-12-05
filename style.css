@@ -5,14 +5,15 @@
 .vert {
   border-left: 2px solid blue;
   border-right: 2px solid blue;
-  height:60vw;
+  height: 60vw;
   z-index: 1;
   border-top: 2px solid blue;
   border-bottom: 2px solid blue;
-  width:99.9vw;
+  width: 99.9vw;
   z-index: 1;
 }
-.fall{
+
+.fall {
   left: 0;
   top: 50%;
   padding-top: 500px;
@@ -77,11 +78,13 @@ header {
 .nav-link {
   align-items: center;
 }
-.quote{
+
+.quote {
   height: 200px;
   width: 200px;
   align-items: center;
 }
+
 li,
 section {
   text-align: center;
@@ -110,11 +113,13 @@ section {
 .pic2 {
   justify-content: center;
 }
-.me{
+
+.me {
   align-items: center;
   margin: auto;
   align-content: center;
 }
+
 .logo {
   border-radius: 0%;
   height: 111px;
@@ -186,6 +191,16 @@ footer {
   width: fit-content;
   padding: 10px;
 
+}
+
+marquee {
+  z-index: 2;
+  position: absolute;
+  font-family: Cursive;
+  font-size: 14pt;
+  color: #ffcc00;
+  height: 125px;
+  background-color: transparent;
 }
 
 @keyframes baseball {
