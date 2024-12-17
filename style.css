@@ -5,10 +5,10 @@
 .vert {
   border-left: 2px solid blue;
   border-right: 2px solid blue;
-  height: 100vw;
+  height: 200vw;
   border-top: 2px solid blue;
   border-bottom: 2px solid blue;
-  width: 200vw;
+  width: 100vw;
   z-index: 1;
 }
 
