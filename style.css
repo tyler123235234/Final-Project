@@ -6,10 +6,9 @@
   border-left: 2px solid blue;
   border-right: 2px solid blue;
   height: 100vw;
-  
   border-top: 2px solid blue;
   border-bottom: 2px solid blue;
-  width: 100vw;
+  width: 110vw;
   z-index: 1;
 }
 
@@ -59,12 +58,14 @@
 .divider {
   height: 34px;
 }
-.conference{
+
+.conference {
   text-align: center;
   font-size: 30px;
   font-size: 2rem;
   text-shadow: -6px -10px 3px rgb(255, 255, 255);
 }
+
 h1 {
   text-align: auto;
   font-size: 30px;
