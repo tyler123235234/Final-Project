@@ -5,7 +5,7 @@
 .vert {
   border-left: 2px solid blue;
   border-right: 2px solid blue;
-  height: 110vw;
+  height: 90vw;
   border-top: 2px solid blue;
   border-bottom: 2px solid blue;
   width: 100vw;
@@ -106,6 +106,9 @@ section {
 @media only screen and (max-width: 550px) {
   .navi {
     font-size: 2rem;
+  }
+  .vert{
+    height:110vw
   }
 }
 
